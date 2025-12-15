@@ -1,59 +1,28 @@
-# Fnafwiki
+# 🎮 FNAF Wiki – Angular Project
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.2.
+Aplicación web desarrollada con **Angular** que muestra información y descripciones de los animatrónicos de **Five Nights at Freddy’s**, desde **FNAF 1 hasta FNAF 4**.
 
-## Development server
+El proyecto incluye **animaciones interactivas al pasar el mouse** sobre varios animatrónicos y **easter eggs ocultos** para los usuarios más curiosos.
 
-To start a local development server, run:
+## 🌐 Demostración
+👉 https://4drian04.github.io/fnafwiki/
 
+## 🚀 Características
+- Información de animatrónicos de FNAF 1 a FNAF 4  
+- Animaciones hover en distintos personajes  
+- Easter eggs ocultos  
+- Navegación con Angular Router  
+- Interfaz temática inspirada en la saga  
+
+## 🛠️ Tecnologías
+- Angular  
+- TypeScript  
+- HTML  
+- CSS  
+
+## ⚙️ Instalación local
 ```bash
+git clone https://github.com/4drian04/fnafwiki.git
+cd fnafwiki
+npm install
 ng serve
-```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
