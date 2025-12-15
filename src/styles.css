@@ -1,1 +1,25 @@
-/* You can add global styles to this file, and also import other style files */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #0a0a0a;
+    color: #d0d0d0;
+    font-family: Arial, sans-serif;
+    cursor: url('assets/cursor.png'), auto;;
+}
+/* Ancho de la barra */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Fondo del carril (la parte por donde se mueve la barra) */
+::-webkit-scrollbar-track {
+    background: #111;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #8b0000;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #b30000;
+}

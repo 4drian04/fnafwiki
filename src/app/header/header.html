@@ -1,0 +1,12 @@
+<header>
+    <img src="../../assets/bannerFNAF.jpg" class="banner-img"/>
+    <div class="easter-egg" (click)="playEasterEgg()"></div>
+    <nav class="fnaf-nav" [ngClass]="tema">
+    <ul>
+        <li><a data-text="FNAF 1" routerLink="/fnaf1" (mouseenter)="onMouseEnter()" (click)="onMouseClickFnaf()">FNAF 1</a></li>
+        <li><a data-text="FNAF 2" routerLink="/fnaf2" (mouseenter)="onMouseEnter()" (click)="onMouseClickFnaf()">FNAF 2</a></li>
+        <li><a data-text="FNAF 3" routerLink="/fnaf3" (mouseenter)="onMouseEnter()" (click)="onMouseClickFnaf3()">FNAF 3</a></li>
+        <li><a data-text="FNAF 4" routerLink="/fnaf4" (mouseenter)="onMouseEnter()" (click)="onMouseClickFnaf()">FNAF 4</a></li>
+    </ul>
+</nav>
+</header>

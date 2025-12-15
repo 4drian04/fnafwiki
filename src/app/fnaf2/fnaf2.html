@@ -1,0 +1,14 @@
+<div class='personajes-container'>
+    <ul> 
+        @for (animatronico of animatronicos; track $index) {
+            @if (!listaAnimatronicosEspeciales.includes(animatronico.nombre) || (animatronico.nombre==="Withered Golden Freddy" && aparicionWitheredGoldenFreddy===5) || (animatronico.nombre==="Ballon Girl (JJ)" && aparicionBallonGirl===5) || (animatronico.nombre==="Shadow Bonnie (RWQFSFASXC)" && aparicionShadowBonnie===5) || (animatronico.nombre==="Shadow Freddy" && aparicionShadowFreddy===5) || (animatronico.nombre==="Endo-02" && aparicionEndo02===5)) {
+                <li class='personaje-card'>
+                    <img src={{animatronico.imagenActual}} alt={{animatronico.nombre}} (mouseenter)="cambiarImagen(animatronico, animatronico.gif, true)" (mouseleave)="cambiarImagen(animatronico, animatronico.imagenIdle, false)" (touchstart)="cambiarImagen(animatronico, animatronico.gif, true)" (touchend)="cambiarImagen(animatronico, animatronico.imagenIdle, false)"/>
+                    <div class="character-name"></div>
+                    <button class="info-btn" (click)="onClickAnimatronico(animatronico)">Más información</button>
+                    <app-detalle-animatronico [animatronico]="animatronico" [isActive]="listaAnimatronicos.includes(animatronico)"></app-detalle-animatronico>
+                </li>
+            }
+        }
+    </ul>
+</div>

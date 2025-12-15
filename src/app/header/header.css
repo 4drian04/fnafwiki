@@ -1,0 +1,134 @@
+header {
+    width: 100%;
+    height: 380px;      /* ajusta según tu gusto */
+    overflow: hidden;
+}
+
+.banner-img {
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+    background: #000;
+    color: #c6c6c6;
+}
+
+/* Easter egg invisible */
+.easter-egg {
+    position: absolute;
+    top: 15%;
+    right: 9%;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+
+    /* Totalmente invisible */
+    opacity: 0;
+
+    /* Asegura que esté encima */
+    z-index: 10;
+}
+
+.fnaf-nav {
+    --color-principal: #ff1c1c; /* color por defecto */
+    width: 100%;
+    background: #000;
+    padding: 15px 0;
+    border-bottom: 2px solid var(--color-principal);
+    box-shadow: 0 0 15px rgba(255, 0, 0, 0.4);
+    font-family: "Orbitron", sans-serif;
+}
+
+/* --- Lista --- */
+.fnaf-nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.fnaf-nav.fnaf3 {
+    --color-principal: #9acd32;
+}
+
+.fnaf-nav.fnaf {
+    --color-principal: #ff1c1c;
+}
+
+/* --- Links --- */
+.fnaf-nav a {
+    color: var(--color-principal);
+    text-decoration: none;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    text-shadow: 0 0 10px red, 0 0 3px #ff0000;
+    position: relative;
+    transition: 0.2s ease;
+    display: inline-block;
+    overflow: hidden;
+}
+
+/* Hover */
+.fnaf-nav a:hover {
+    color: #ffffff;
+    text-shadow: 0 0 10px white, 0 0 20px red;
+    transform: scale(1.07);
+}
+
+/* --- Glitch base --- */
+.fnaf-nav a::before,
+.fnaf-nav a::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    mix-blend-mode: difference;
+}
+
+/* Color RGB desplazado */
+.fnaf-nav a::before {
+    color: #ff0000;
+}
+
+.fnaf-nav a::after {
+    color: #00aaff;
+}
+
+/* Animación permanente de interferencias */
+.fnaf-nav a {
+    animation: glitch-static 2.5s infinite linear alternate-reverse;
+}
+
+/* Hover glitch suave */
+.fnaf-nav a:hover::before,
+.fnaf-nav a:hover::after {
+    opacity: 1;
+    animation: glitch-shift-soft 0.35s infinite ease-in-out;
+}
+
+/* --- Animaciones --- */
+
+/* Interferencias suaves continuas (estilo cámara dañada) */
+@keyframes glitch-static {
+    0%   { text-shadow: 0 0 8px red; }
+    10%  { text-shadow: 2px 0 5px red; }
+    20%  { text-shadow: -2px 0 7px red; }
+    30%  { text-shadow: 1px 0 7px red; }
+    40%  { text-shadow: -1px 0 10px red; }
+    50%  { text-shadow: 3px 0 12px red; }
+    60%  { text-shadow: -3px 0 6px red; }
+    70%  { text-shadow: 1px 0 6px red; }
+    80%  { text-shadow: -1px 0 10px red; }
+    90%  { text-shadow: 2px 0 5px red; }
+    100% { text-shadow: 0 0 8px red; }
+}
+
+@keyframes glitch-shift-soft {
+    0%   { transform: translate(0px, 0px); }
+    25%  { transform: translate(-1px, 0.5px); }
+    50%  { transform: translate(1.5px, -0.5px); }
+    75%  { transform: translate(-0.5px, 1px); }
+    100% { transform: translate(0px, 0px); }
+}

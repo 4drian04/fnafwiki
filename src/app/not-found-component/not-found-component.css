@@ -1,0 +1,29 @@
+.bg-video {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.play-btn {
+    background: #2c0f0f;        /* rojo oscuro */
+    color: #ff4e4e;             /* rojo neón */
+    border: 1px solid #ff1a1a;
+    border-radius: 4px;
+    font-weight: bold;
+    font-family: "Courier New", monospace;
+    transition: background 0.2s, box-shadow 0.2s, transform 0.2s;
+    font-size: 18px;
+    cursor: pointer;
+    position: fixed;
+    top: 50%;
+    left: 38%;
+    z-index: 10;
+}
+.play-btn:hover {
+    background: #ff1a1a;             /* rojo brillante al pasar el mouse */
+    color: #fff;
+    box-shadow: 0 0 12px #ff1a1a;
+    transform: scale(1.05);
+}

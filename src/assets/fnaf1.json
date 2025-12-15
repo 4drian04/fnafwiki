@@ -1,0 +1,39 @@
+{
+    "animatronicos": [
+        {
+            "nombre": "Freddy Fazbear",
+            "descripcion": "El animatrónico principal y mascota del local. Se activa más tarde en la noche y se mueve silenciosamente. Ataca generalmente por el pasillo derecho.",
+            "imagenIdle": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/e/e2/441.png",
+            "imagenActual": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/e/e2/441.png",
+            "gif": "https://i.imgur.com/8St1prE.gif"
+        },
+        {
+            "nombre": "Bonnie",
+            "descripcion": "Un conejo animatrónico que se activa temprano en la noche. Se desplaza principalmente hacia la oficina por el lado izquierdo y es uno de los más activos.",
+            "imagenIdle": "https://pm1.aminoapps.com/7601/9a45c1e036d10f187de3bffdbd10c864efb0dbd3r1-826-371v2_hq.jpg",
+            "imagenActual": "https://pm1.aminoapps.com/7601/9a45c1e036d10f187de3bffdbd10c864efb0dbd3r1-826-371v2_hq.jpg",
+            "gif": "https://i.pinimg.com/originals/07/88/0f/07880f8790327e37bcfdad655640c778.gif"
+        },
+        {
+            "nombre": "Chica",
+            "descripcion": "Una gallina animatrónica que suele moverse por el pasillo derecho. Tiende a estar activa desde las primeras noches.",
+            "imagenIdle": "https://pm1.aminoapps.com/6438/cc59d3770918b93665b1cec3737eead36245d3fd_hq.jpg",
+            "imagenActual": "https://pm1.aminoapps.com/6438/cc59d3770918b93665b1cec3737eead36245d3fd_hq.jpg",
+            "gif": "https://i.pinimg.com/originals/b1/43/76/b14376825102781a3f887ee206d35610.gif"
+        },
+        {
+            "nombre": "Foxy",
+            "descripcion": "Un zorro pirata que permanece en Pirate Cove. Su comportamiento es distinto al de los demás: si se observa poco, se vuelve más activo y corre por el pasillo izquierdo para atacar.",
+            "imagenIdle": "https://pm1.aminoapps.com/6700/c44de29cbb22a2f635ef53b287535da86260f878_hq.jpg",
+            "imagenActual": "https://pm1.aminoapps.com/6700/c44de29cbb22a2f635ef53b287535da86260f878_hq.jpg",
+            "gif": "https://i.pinimg.com/originals/1d/4d/ad/1d4dadbac854b5d6343f6299c3b3924f.gif"
+        },
+        {
+            "nombre": "Golden Freddy",
+            "descripcion": "Una aparición especial de Freddy que puede manifestarse de forma aleatoria en la oficina. No se mueve como los demás y su ataque puede cerrar el juego si aparece inesperadamente.",
+            "imagenIdle": "https://pm1.aminoapps.com/6543/7b6b918ee9477565ab1dc4a9498e4382026ca124_hq.jpg",
+            "imagenActual": "https://pm1.aminoapps.com/6543/7b6b918ee9477565ab1dc4a9498e4382026ca124_hq.jpg",
+            "gif": "https://pa1.aminoapps.com/7602/4a04a9539ecfadb734faa8dd2db69dba7875d66ar1-540-304_hq.gif"
+        }
+    ]
+}

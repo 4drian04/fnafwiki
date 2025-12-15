@@ -1,0 +1,18 @@
+<button
+    *ngIf="!showVideo"
+    class="play-btn"
+    (click)="playVideo()"
+>
+    Haz click para ver una sorpresa
+</button>
+<video
+    #bgVideo
+    muted
+    playsinline
+    preload="auto"
+    *ngIf="showVideo"
+    class="bg-video"
+    (ended)="goHome()"
+>
+    <source src="assets/foxyScream.mp4" type="video/mp4" />
+</video>

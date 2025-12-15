@@ -1,0 +1,81 @@
+{
+"animatronicos": [
+        {
+            "nombre": "Nightmare Freddy",
+            "descripcion": "La versión de pesadilla de Freddy Fazbear. Permanece en la cama del jugador, donde pequeños Freddles se acumulan hasta invocarlo si no se les presta atención.",
+            "imagenIdle": "https://i.pinimg.com/736x/79/83/dc/7983dcf8cfe1c9b2a3b32ef29cb258a8.jpg",
+            "imagenActual": "https://i.pinimg.com/736x/79/83/dc/7983dcf8cfe1c9b2a3b32ef29cb258a8.jpg",
+            "gif": "https://i.pinimg.com/736x/79/83/dc/7983dcf8cfe1c9b2a3b32ef29cb258a8.jpg"
+        },
+        {
+            "nombre": "Nightmare Bonnie",
+            "descripcion": "Acecha por el pasillo izquierdo. El jugador debe escuchar cuidadosamente su respiración para saber cuándo cerrar la puerta.",
+            "imagenIdle": "https://i.pinimg.com/736x/52/1a/c0/521ac0abae3a7c9b1652baa1c45e5834.jpg",
+            "imagenActual": "https://i.pinimg.com/736x/52/1a/c0/521ac0abae3a7c9b1652baa1c45e5834.jpg",
+            "gif": "https://i.pinimg.com/736x/52/1a/c0/521ac0abae3a7c9b1652baa1c45e5834.jpg"
+        },
+        {
+            "nombre": "Nightmare Chica",
+            "descripcion": "Acecha por el pasillo derecho. Su amenaza se detecta por sonidos de respiración y requiere cerrar la puerta en el momento justo.",
+            "imagenIdle": "https://i.pinimg.com/736x/99/92/66/999266a28bea43aef7a321fa55fdd062.jpg",
+            "imagenActual": "https://i.pinimg.com/736x/99/92/66/999266a28bea43aef7a321fa55fdd062.jpg",
+            "gif": "https://i.pinimg.com/736x/99/92/66/999266a28bea43aef7a321fa55fdd062.jpg"
+        },
+        {
+            "nombre": "Nightmare Foxy",
+            "descripcion": "Se esconde en el armario. Si no se le ilumina con la linterna, salta violentamente al jugador.",
+            "imagenIdle": "https://i.redd.it/ql9gvfv2o0x41.png",
+            "imagenActual": "https://i.redd.it/ql9gvfv2o0x41.png",
+            "gif": "https://static.wikia.nocookie.net/parody/images/3/3d/Nightmare_Foxy.gif"
+        },
+        {
+            "nombre": "Nightmare Fredbear",
+            "descripcion": "La principal amenaza del juego base. Aparece tanto en los pasillos como en la cama, exigiendo máxima atención y precisión.",
+            "imagenIdle": "https://i.pinimg.com/736x/66/43/72/6643728af177024b25f022e8c2b1403c.jpg",
+            "imagenActual": "https://i.pinimg.com/736x/66/43/72/6643728af177024b25f022e8c2b1403c.jpg",
+            "gif": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a3179df4-bce1-46ae-9f0e-06bcc3db928c/da4tlz3-817a35dd-b7f2-4ab6-8405-e9c0c21c43fe.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9hMzE3OWRmNC1iY2UxLTQ2YWUtOWYwZS0wNmJjYzNkYjkyOGMvZGE0dGx6My04MTdhMzVkZC1iN2YyLTRhYjYtODQwNS1lOWMwYzIxYzQzZmUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9fw9xMghv5NNHm1qi4rBHVC3xjfjbEFj5kuFVf_xLWY"
+        },
+        {
+            "nombre": "Nightmare",
+            "descripcion": "Una versión oscura y aún más agresiva de Nightmare Fredbear. Representa el terror máximo del juego.",
+            "imagenIdle": "https://i1.sndcdn.com/artworks-000133603709-e2u6ni-t1080x1080.jpg",
+            "imagenActual": "https://i1.sndcdn.com/artworks-000133603709-e2u6ni-t1080x1080.jpg",
+            "gif": "https://i1.sndcdn.com/artworks-000133603709-e2u6ni-t1080x1080.jpg"
+        },
+        {
+            "nombre": "Plushtrap",
+            "descripcion": "Aparece en el minijuego del pasillo. El jugador debe detenerlo usando la linterna para ganar segundos extra.",
+            "imagenIdle": "https://i.redd.it/mzqnd17p61d71.jpg",
+            "imagenActual": "https://i.redd.it/mzqnd17p61d71.jpg",
+            "gif": "https://i.redd.it/mzqnd17p61d71.jpg"
+        },
+        {
+            "nombre": "Nightmare Balloon Boy",
+            "descripcion": "Exclusivo de la Halloween Edition. Desactiva la linterna del jugador, aumentando el peligro.",
+            "imagenIdle": "https://cdnb.artstation.com/p/assets/images/images/077/879/093/large/mrwhitenoiz-nightmare-bb-blender-by-mrwhitenoiz-dgf7r2v-pre-5.jpg",
+            "imagenActual": "https://cdnb.artstation.com/p/assets/images/images/077/879/093/large/mrwhitenoiz-nightmare-bb-blender-by-mrwhitenoiz-dgf7r2v-pre-5.jpg",
+            "gif": "https://cdnb.artstation.com/p/assets/images/images/077/879/093/large/mrwhitenoiz-nightmare-bb-blender-by-mrwhitenoiz-dgf7r2v-pre-5.jpg"
+        },
+        {
+            "nombre": "Jack-O-Bonnie",
+            "descripcion": "Versión Halloween de Nightmare Bonnie. Puede provocar un jumpscare incluso con la puerta cerrada si se usa la linterna.",
+            "imagenIdle": "https://64.media.tumblr.com/4f8f0519a076091da62fd43bbc7b08c4/7a23433c6c8b3ea4-46/s500x750/87c7d8ed4cd4bb49302c8e2c0d8e4d863121930e.jpg",
+            "imagenActual": "https://64.media.tumblr.com/4f8f0519a076091da62fd43bbc7b08c4/7a23433c6c8b3ea4-46/s500x750/87c7d8ed4cd4bb49302c8e2c0d8e4d863121930e.jpg",
+            "gif": "https://64.media.tumblr.com/4f8f0519a076091da62fd43bbc7b08c4/7a23433c6c8b3ea4-46/s500x750/87c7d8ed4cd4bb49302c8e2c0d8e4d863121930e.jpg"
+        },
+        {
+            "nombre": "Jack-O-Chica",
+            "descripcion": "Versión Halloween de Nightmare Chica. Su uso indebido de la linterna puede provocar un ataque inmediato.",
+            "imagenIdle": "https://64.media.tumblr.com/873e39857ea0119936066fca7d5eb3e5/7a23433c6c8b3ea4-71/s500x750/498e8ee964f2427ca688d5e73bb02fe4d1e15d9b.jpg",
+            "imagenActual": "https://64.media.tumblr.com/873e39857ea0119936066fca7d5eb3e5/7a23433c6c8b3ea4-71/s500x750/498e8ee964f2427ca688d5e73bb02fe4d1e15d9b.jpg",
+            "gif": "https://64.media.tumblr.com/873e39857ea0119936066fca7d5eb3e5/7a23433c6c8b3ea4-71/s500x750/498e8ee964f2427ca688d5e73bb02fe4d1e15d9b.jpg"
+        },
+        {
+            "nombre": "Nightmare Mangle",
+            "descripcion": "Exclusivo de la Halloween Edition. Aparece en el techo y ataca si no se le presta atención con la linterna.",
+            "imagenIdle": "https://i1.sndcdn.com/artworks-000215692530-zw4ct0-t1080x1080.jpg",
+            "imagenActual": "https://i1.sndcdn.com/artworks-000215692530-zw4ct0-t1080x1080.jpg",
+            "gif": "https://i.pinimg.com/originals/0a/ab/c5/0aabc589de79f170699b16f99a50bd29.gif"
+        }
+    ]
+}

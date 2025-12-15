@@ -1,0 +1,12 @@
+<div class='personajes-container'>
+    <ul> 
+        <li class='personaje-card' *ngFor="let animatronico of animatronicos">
+            @if (animatronico.nombre!=="Golden Freddy" || (animatronico.nombre==="Golden Freddy" && aparicionGoldenFreddy==5)) {
+                <img src={{animatronico.imagenActual}} alt={{animatronico.nombre}} (mouseenter)="cambiarImagen(animatronico, animatronico.gif, true)" (mouseleave)="cambiarImagen(animatronico, animatronico.imagenIdle, false)" (touchstart)="cambiarImagen(animatronico, animatronico.gif, true)" (touchend)="cambiarImagen(animatronico, animatronico.imagenIdle, false)"/>
+                <div class="character-name"></div>
+                <button class="info-btn" (click)="onClickAnimatronico(animatronico)">Más información</button>
+                <app-detalle-animatronico [animatronico]="animatronico" [isActive]="listaAnimatronicos.includes(animatronico)"></app-detalle-animatronico>
+            }
+        </li>
+    </ul>
+</div>

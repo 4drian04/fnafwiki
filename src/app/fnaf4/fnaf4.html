@@ -1,0 +1,12 @@
+<div class='personajes-container'>
+    <ul> 
+        @for (animatronico of animatronicos; track $index) {
+            <li class='personaje-card'>
+                <img src={{animatronico.imagenActual}} alt={{animatronico.nombre}} (mouseenter)="cambiarImagen(animatronico, animatronico.gif, true)" (mouseleave)="cambiarImagen(animatronico, animatronico.imagenIdle, false)" (touchstart)="cambiarImagen(animatronico, animatronico.gif, true)" (touchend)="cambiarImagen(animatronico, animatronico.imagenIdle, false)"/>
+                <div class="character-name"></div>
+                <button class="info-btn" (click)="onClickAnimatronico(animatronico)">Más información</button>
+                <app-detalle-animatronico [animatronico]="animatronico" [isActive]="listaAnimatronicos.includes(animatronico)"></app-detalle-animatronico>
+            </li>
+        }
+    </ul>
+</div>
