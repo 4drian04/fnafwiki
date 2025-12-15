@@ -1,0 +1,109 @@
+{
+    "animatronicos": [
+        {
+            "nombre": "Toy Freddy",
+            "descripcion": "Una versión moderna de Freddy. Se mueve por el pasillo principal y suele aparecer en la oficina si no se supervisan bien las cámaras.",
+            "imagenIdle": "https://pm1.aminoapps.com/6335/178ab7e4e20bc57ec0cca1124c1829346b2d2a1c_hq.jpg",
+            "imagenActual": "https://pm1.aminoapps.com/6335/178ab7e4e20bc57ec0cca1124c1829346b2d2a1c_hq.jpg",
+            "gif": "https://pm1.aminoapps.com/6335/178ab7e4e20bc57ec0cca1124c1829346b2d2a1c_hq.jpg"
+        },
+        {
+            "nombre": "Toy Bonnie",
+            "descripcion": "La versión renovada de Bonnie. Es muy activo y suele moverse rápidamente hacia la oficina por el conducto derecho.",
+            "imagenIdle": "https://i.redd.it/0xu3qyngjqvc1.png",
+            "imagenActual": "https://i.redd.it/0xu3qyngjqvc1.png",
+            "gif": "https://pa1.aminoapps.com/6327/24e75cfd69b0e117a2d130b0a8d312ba483e313d_hq.gif"
+        },
+        {
+            "nombre": "Toy Chica",
+            "descripcion": "Su apariencia cambia al moverse, perdiendo el pico. Avanza por el pasillo principal y también usa el conducto izquierdo.",
+            "imagenIdle": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/07/toy-chica-five-nights-at-fredwards-2.jpg",
+            "imagenActual": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/07/toy-chica-five-nights-at-fredwards-2.jpg",
+            "gif": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/07/toy-chica-five-nights-at-fredwards-2.jpg"
+        },
+        {
+            "nombre": "Mangle",
+            "descripcion": "Un animatrónico desmontado que se desplaza por el techo. Produce interferencia de audio y puede atacarte desde arriba.",
+            "imagenIdle": "https://33.media.tumblr.com/75b6a26f6ed6d546b0a4af187d1a0118/tumblr_nevpu96BTO1t63hmwo1_500.jpg",
+            "imagenActual": "https://33.media.tumblr.com/75b6a26f6ed6d546b0a4af187d1a0118/tumblr_nevpu96BTO1t63hmwo1_500.jpg",
+            "gif": "https://i.makeagif.com/media/6-28-2020/2Z52yt.gif"
+        },
+        {
+            "nombre": "Balloon Boy",
+            "descripcion": "No mata, pero si entra a la oficina deshabilita la linterna, lo que permite que Foxy ataque sin protección.",
+            "imagenIdle": "https://static.wikia.nocookie.net/villains/images/c/c0/Balloon_Boy_Teaser_1.jpg",
+            "imagenActual": "https://static.wikia.nocookie.net/villains/images/c/c0/Balloon_Boy_Teaser_1.jpg",
+            "gif": "https://media.tenor.com/fcML5zkdJn8AAAAM/balloon-boy-fnaf.gif"
+        },
+        {
+            "nombre": "Puppet",
+            "descripcion": "Habita dentro de la caja musical. Si la cuerda no se mantiene cargada, sale y ataca de forma inevitable.",
+            "imagenIdle": "https://at-cdn-s01.audiotool.com/2016/02/26/documents/4Ay7RFxynTEvn2nv7Yo52C0g2HcLj/0/cover256x256-73f77431167b4fa4b110658b4364dece.jpg",
+            "imagenActual": "https://at-cdn-s01.audiotool.com/2016/02/26/documents/4Ay7RFxynTEvn2nv7Yo52C0g2HcLj/0/cover256x256-73f77431167b4fa4b110658b4364dece.jpg",
+            "gif": "https://i.pinimg.com/originals/e7/5e/6c/e75e6c1d03a173e376ff87c347cd75e7.gif"
+        },
+        {
+            "nombre": "Withered Freddy",
+            "descripcion": "Una versión deteriorada de Freddy. Entra por el pasillo principal y puede llegar a la oficina rápidamente.",
+            "imagenIdle": "https://pm1.aminoapps.com/6950/c86239c92baf359bac075cfcb2feab4132298c20r1-732-549v2_hq.jpg",
+            "imagenActual": "https://pm1.aminoapps.com/6950/c86239c92baf359bac075cfcb2feab4132298c20r1-732-549v2_hq.jpg",
+            "gif": "https://pm1.aminoapps.com/6950/c86239c92baf359bac075cfcb2feab4132298c20r1-732-549v2_hq.jpg"
+        },
+        {
+            "nombre": "Withered Bonnie",
+            "descripcion": "Fuertemente dañado y sin rostro. Llega por el conducto izquierdo y es uno de los sustos más repentinos.",
+            "imagenIdle": "https://assets.mycast.io/actor_images/actor-withered-bonnie-892945_large.jpg",
+            "imagenActual": "https://assets.mycast.io/actor_images/actor-withered-bonnie-892945_large.jpg",
+            "gif": "https://pa1.aminoapps.com/7060/8df78ba83d6b0959fe68c34cae438aa2a84de20ar1-640-505_00.gif"
+        },
+        {
+            "nombre": "Withered Chica",
+            "descripcion": "Está dañada y con brazos alargados. Usa el conducto derecho y requiere reaccionar con rapidez con la máscara.",
+            "imagenIdle": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:504,cw:1271,ch:1271,q:80,w:1271/BSjMaonb65bKcrYd6GAMX4.jpg",
+            "imagenActual": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:504,cw:1271,ch:1271,q:80,w:1271/BSjMaonb65bKcrYd6GAMX4.jpg",
+            "gif": "https://i.gifer.com/SZTj.gif"
+        },
+        {
+            "nombre": "Withered Foxy",
+            "descripcion": "Foxy muy deteriorado que aparece en el pasillo principal. Requiere iluminarlo repetidamente para ahuyentarlo.",
+            "imagenIdle": "https://pm1.aminoapps.com/6214/1dd842b7e284871714bb591fd253cc7e490640e5_hq.jpg",
+            "imagenActual": "https://pm1.aminoapps.com/6214/1dd842b7e284871714bb591fd253cc7e490640e5_hq.jpg",
+            "gif": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2258429-cae2-42fb-8d69-f397fcd6f4d3/d9zbvol-a65f808c-3300-4fbf-b09b-6bb0b2a92706.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jMjI1ODQyOS1jYWUyLTQyZmItOGQ2OS1mMzk3ZmNkNmY0ZDMvZDl6YnZvbC1hNjVmODA4Yy0zMzAwLTRmYmYtYjA5Yi02YmIwYjJhOTI3MDYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2SbQExIddt61UjMywR55nQOopFMYyIWCHpY3w1Y3T7E"
+        },
+        {
+            "nombre": "Withered Golden Freddy",
+            "descripcion": "Una aparición espectral de Golden Freddy. Puede aparecer en el pasillo o materializarse en la oficina, provocando un final inmediato si no se usa la máscara o se baja la vista.",
+            "imagenIdle": "https://i.ytimg.com/vi/VH6aWovjmyw/maxresdefault.jpg",
+            "imagenActual": "https://i.ytimg.com/vi/VH6aWovjmyw/maxresdefault.jpg",
+            "gif": "https://media.tenor.com/W1wN_5gOKJkAAAAM/golden-freddy-golden-freddy-fnaf.gif"
+        },
+        {
+            "nombre": "Ballon Girl (JJ)",
+            "descripcion": "Una variante oculta de Balloon Boy que aparece bajo el escritorio. No ataca, solo es un easter egg.",
+            "imagenIdle": "https://pm1.aminoapps.com/6463/e69c09d9b8fac03a07e9fee8ce3f19382a6ba9b0_hq.jpg",
+            "imagenActual": "https://pm1.aminoapps.com/6463/e69c09d9b8fac03a07e9fee8ce3f19382a6ba9b0_hq.jpg",
+            "gif": "https://pm1.aminoapps.com/6463/e69c09d9b8fac03a07e9fee8ce3f19382a6ba9b0_hq.jpg"
+        },
+        {
+            "nombre": "Shadow Bonnie (RWQFSFASXC)",
+            "descripcion": "Una figura oscura de Bonnie. Aparece aleatoriamente y puede congelar el juego si se queda demasiado tiempo.",
+            "imagenIdle": "https://e1.pxfuel.com/desktop-wallpaper/327/193/desktop-wallpaper-rwqfsfasxc-gallery-fnaf-shadow-bonnie.jpg",
+            "imagenActual": "https://e1.pxfuel.com/desktop-wallpaper/327/193/desktop-wallpaper-rwqfsfasxc-gallery-fnaf-shadow-bonnie.jpg",
+            "gif": "https://media.tenor.com/s_peXOrkILsAAAAM/fnaf-memes-shadow-bonnie.gif"
+        },
+        {
+            "nombre": "Shadow Freddy",
+            "descripcion": "Una versión púrpura oscura de Freddy. Se le ve en las salas traseras y su presencia es rara y enigmática.",
+            "imagenIdle": "https://i.redd.it/j7plnph9kyyb1.jpg",
+            "imagenActual": "https://i.redd.it/j7plnph9kyyb1.jpg",
+            "gif": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/829c97fe-771e-4c86-9a5b-c13c213eabc2/df1fvd8-98a93691-a5c1-42bd-8a28-00c02490290f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84MjljOTdmZS03NzFlLTRjODYtOWE1Yi1jMTNjMjEzZWFiYzIvZGYxZnZkOC05OGE5MzY5MS1hNWMxLTQyYmQtOGEyOC0wMGMwMjQ5MDI5MGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XvryRiTT3eG_OJtqwADXQGzYMLpFr_PK1ErPJjmpZCg"
+        },
+        {
+            "nombre": "Endo-02",
+            "descripcion": "El endoesqueleto utilizado por los animatrónicos de Toy. Aparece de forma ocasional en las cámaras.",
+            "imagenIdle": "https://i.quotev.com/swgxu4dvwzsa.jpg",
+            "imagenActual": "https://i.quotev.com/swgxu4dvwzsa.jpg",
+            "gif": "https://i.quotev.com/swgxu4dvwzsa.jpg"
+        }
+    ]
+}

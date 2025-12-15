@@ -1,0 +1,67 @@
+{
+    "animatronicos": [
+        {
+            "nombre": "Springtrap",
+            "descripcion": "El único animatrónico real en FNAF 3. Acecha silenciosamente por las ventilaciones y pasillos, acercándose poco a poco al jugador. Su comportamiento se basa en atraerlo con audio y mantenerlo alejado mediante cámaras.",
+            "imagenIdle": "https://i.pinimg.com/736x/f5/7b/81/f57b81a068ec5626c47cfffca6c40ab0.jpg",
+            "imagenActual": "https://i.pinimg.com/736x/f5/7b/81/f57b81a068ec5626c47cfffca6c40ab0.jpg",
+            "gif": "https://i.pinimg.com/originals/fa/70/84/fa70846c2e28da478d1a7fa0247d5b2f.gif"
+        },
+        {
+            "nombre": "Phantom Freddy",
+            "descripcion": "Un Freddy quemado y fantasmagórico que aparece en el pasillo central. Si se observa demasiado tiempo, avanza hacia la oficina y produce errores en el sistema.",
+            "imagenIdle": "https://i.pinimg.com/736x/c8/ee/2a/c8ee2a83f74cc5bc0a702094c7402722.jpg",
+            "imagenActual": "https://i.pinimg.com/736x/c8/ee/2a/c8ee2a83f74cc5bc0a702094c7402722.jpg",
+            "gif": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dfb21baf-c2b7-4f02-af56-fb668caafc8a/dfbd3k9-bbd3f58c-4f97-42cf-bf86-dcf3e8b216e5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kZmIyMWJhZi1jMmI3LTRmMDItYWY1Ni1mYjY2OGNhYWZjOGEvZGZiZDNrOS1iYmQzZjU4Yy00Zjk3LTQyY2YtYmY4Ni1kY2YzZThiMjE2ZTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XVUhWuK-56mzp-2CJUmRApwWs6HgJaoka05tOJbRY1I"
+        },
+        {
+            "nombre": "Phantom Bonnie",
+            "descripcion": "Aparece como un jumpscare repentino en el menú Extra dentro de la versión móvil. Es un easter egg extremadamente raro y no afecta al gameplay normal.",
+            "imagenIdle": "https://m.gjcdn.net/fireside-post-image/900/34056848-cy4fnetf-v4.webp",
+            "imagenActual": "https://m.gjcdn.net/fireside-post-image/900/34056848-cy4fnetf-v4.webp",
+            "gif": "https://m.gjcdn.net/fireside-post-image/900/34056848-cy4fnetf-v4.webp"
+        },
+        {
+            "nombre": "Phantom Chica",
+            "descripcion": "Se ve en una cámara mirando directamente al jugador. Si se hace contacto visual por demasiado tiempo, aparecerá de golpe en la oficina provocando errores en los sistemas.",
+            "imagenIdle": "https://m.gjcdn.net/fireside-post-image/700/3131459-epb7a8tt-v4.webp",
+            "imagenActual": "https://m.gjcdn.net/fireside-post-image/700/3131459-epb7a8tt-v4.webp",
+            "gif": "https://m.gjcdn.net/fireside-post-image/700/3131459-epb7a8tt-v4.webp"
+        },
+        {
+            "nombre": "Phantom Foxy",
+            "descripcion": "Aparece cerca de la oficina, de forma similar a un jumpscare, cuando el jugador baja el monitor. Su presencia bloquea la visión por un instante y crea fallos en los sistemas.",
+            "imagenIdle": "https://i1.sndcdn.com/artworks-000133600676-91o2hs-t1080x1080.jpg",
+            "imagenActual": "https://i1.sndcdn.com/artworks-000133600676-91o2hs-t1080x1080.jpg",
+            "gif": "https://i.redd.it/6gsg8hdbqqf31.gif"
+        },
+        {
+            "nombre": "Phantom Balloon Boy",
+            "descripcion": "Aparece de manera repentina en las cámaras. Si se le observa fijamente, se manifiesta en la oficina y provoca fallos en el sistema de ventilación.",
+            "imagenIdle": "https://i.pinimg.com/originals/c7/a7/d7/c7a7d7333781f0268e6d4c03bb5f6137.jpg",
+            "imagenActual": "https://i.pinimg.com/originals/c7/a7/d7/c7a7d7333781f0268e6d4c03bb5f6137.jpg",
+            "gif": "https://i.pinimg.com/originals/c7/a7/d7/c7a7d7333781f0268e6d4c03bb5f6137.jpg"
+        },
+        {
+            "nombre": "Phantom Puppet",
+            "descripcion": "Aparece cuando el jugador comete un fallo en ciertas cámaras. Obliga a que la visión quede reducida temporalmente, haciendo más difícil seguir a Springtrap.",
+            "imagenIdle": "https://i.redd.it/28o6snuly1r91.jpg",
+            "imagenActual": "https://i.redd.it/28o6snuly1r91.jpg",
+            "gif": "https://i.pinimg.com/originals/ee/3a/5d/ee3a5da15e11f499a83c2509becb8d69.gif"
+        },
+        {
+            "nombre": "Phantom Mangle",
+            "descripcion": "Se manifiesta como una cabeza flotante y distorsionada que aparece repentinamente en la oficina. Su presencia provoca graves errores de audio y desorienta al jugador durante varios segundos.",
+            "imagenIdle": "https://i1.sndcdn.com/artworks-000133599105-ra5ohj-t500x500.jpg",
+            "imagenActual": "https://i1.sndcdn.com/artworks-000133599105-ra5ohj-t500x500.jpg",
+            "gif": "https://i1.sndcdn.com/artworks-000133599105-ra5ohj-t500x500.jpg"
+        },
+        {
+            "nombre": "Shadow Bonnie",
+            "descripcion": "Una versión oscura de Bonnie que aparece como easter egg en los minijuegos. Puede teletransportar al jugador hacia rutas secretas si se interactúa correctamente.",
+            "imagenIdle": "https://i1.sndcdn.com/artworks-JKxDi4jnzlgGt2uH-64UfmQ-t500x500.jpg",
+            "imagenActual": "https://i1.sndcdn.com/artworks-JKxDi4jnzlgGt2uH-64UfmQ-t500x500.jpg",
+            "gif": "https://i1.sndcdn.com/artworks-JKxDi4jnzlgGt2uH-64UfmQ-t500x500.jpg"
+        }
+    ]
+}
