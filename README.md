@@ -2,7 +2,7 @@
 
 Aplicación web desarrollada con **Angular** que muestra información y descripciones de los animatrónicos de **Five Nights at Freddy’s**, desde **FNAF 1 hasta FNAF 4**.
 
-El proyecto incluye **animaciones interactivas al pasar el mouse** sobre varios animatrónicos y **easter eggs ocultos** para los usuarios más curiosos.
+El proyecto incluye **animaciones interactivas al pasar el mouse** sobre varios animatrónicos y **easter eggs ocultos** para los usuarios más curiosos (un ejemplo es que una de cada diez veces puede aparecer Golden Freddy en el apartado de FNAF 1).
 
 ## 🌐 Demostración
 👉 https://4drian04.github.io/fnafwiki/
