@@ -3,10 +3,12 @@ import { RouterOutlet } from '@angular/router';
 import { Header } from "./header/header";
 import { Fnaf1 } from "./fnaf1/fnaf1";
 import { AppRoutingModuloe } from './app.routes';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { Footer } from './shared/footer/footer';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, Header],
+  imports: [RouterOutlet, Header, FontAwesomeModule, Footer],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })

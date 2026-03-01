@@ -1,0 +1,28 @@
+.footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+}
+
+.footer-links {
+    margin-top: 8px;
+}
+
+.footer-links a {
+    color: #00bfff;
+    text-decoration: none;
+    margin: 0 8px;
+    transition: color 0.3s;
+    display: inline-flex;
+    align-items: center;
+}
+
+.footer-links a fa-icon {
+    margin-right: 5px;
+}
+
+.footer-links a:hover {
+    color: #ff6347;
+}
